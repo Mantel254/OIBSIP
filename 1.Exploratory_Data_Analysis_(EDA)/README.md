@@ -4,5 +4,5 @@
 ## Requirements
 - [Compiler](https://docs.anaconda.com/anaconda/install/)
 - [Data](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
-
+- [Contact](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BI9uCws57QRCl5D8mx0Fvfw%3D%3D)
 
